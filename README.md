@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Shivain 👋
 
-<!--
-**shivainchhatbar/shivainchhatbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a high school junior at Innovation Academy in Alpharetta, GA, and a Georgia Tech Dual Enrollment student in Fall 2026.
 
-Here are some ideas to get you started:
+## What I'm working on
+- Building a 6 DOF robotic arm from scratch (CAD, fabrication, and control)
+- Autonomous navigation research for AP Research / ISEF
+- Leading an FTC robotics team through the 2026-2027 season
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+Mechanical Engineering · Robotics · Mechatronics · CAD · Control Systems
+
+## Currently learning
+- Python for robotics applications
+- Real-time control algorithms
+- Introduction to Computing at Georgia Tech (CS 1301)
+
+📫 Connect: [LinkedIn](https://www.linkedin.com/in/shivain-chhatbar-7ab354394/)
